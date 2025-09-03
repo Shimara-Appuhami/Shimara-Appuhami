@@ -2,7 +2,7 @@
 Hi, I'm **Shimara Appuhami** 🌍 Based in Sri Lanka · 3rd-semester Software Engineering student @ IJSE  
 💻 Passionate about full-stack & mobile development: Java, Hibernate, Spring, SQL, JavaFX, React, Angular  
 📱 Building: POS, Smart Parking, UTAX (AI Tax Assistant), React Mobile App, Angular Mobile App  
-📝 I write tutorials & articles → [Medium/@ShimaraAppuhami](https://medium.com/@ShimaraAppuhami)  
+📝 I write tutorials & articles → [Medium/@ShimaraAppuhami]([https://medium.com/@ShimaraAppuhami](https://medium.com/@ShimaraAppuhami))  
 🎯 Focus: Clean UI/UX, data visualization, and production-ready code  
 
 ---

@@ -2,7 +2,7 @@
 Hi, I'm **Shimara Appuhami** 🌍 Based in Sri Lanka · 3rd-semester Software Engineering student @ IJSE  
 💻 Passionate about full-stack & mobile development: Java, Hibernate, Spring, SQL, JavaFX, React, Angular  
 📱 Building: POS, Smart Parking, UTAX (AI Tax Assistant), React Mobile App, Angular Mobile App  
-📝 I write tutorials & articles → [Medium/@ShimaraAppuhami]([https://medium.com/@ShimaraAppuhami](https://medium.com/@ShimaraAppuhami))  
+📝 I write tutorials & articles →([https://medium.com/@ShimaraAppuhami](https://medium.com/@ShimaraAppuhami))  
 🎯 Focus: Clean UI/UX, data visualization, and production-ready code  
 
 ---
@@ -11,7 +11,6 @@ Hi, I'm **Shimara Appuhami** 🌍 Based in Sri Lanka · 3rd-semester Software En
 - Hibernate  
 - React Native (Expo) + Ionic for mobile apps  
 - Modern UI/UX patterns and data visualization libraries  
-- Automated CI/CD + GitHub Actions for deployment  
 
 ---
 
@@ -27,7 +26,7 @@ Hi, I'm **Shimara Appuhami** 🌍 Based in Sri Lanka · 3rd-semester Software En
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShimaraAppuhami) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShimaraAppuhami) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ShimaraIlshani)  
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ShimaraAppuhami)  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@ShimaraAppuhami](https://medium.com/@ShimaraAppuhami))  
 
 ---
 

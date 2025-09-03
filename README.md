@@ -76,27 +76,12 @@
 ![UTAX Demo](https://raw.githubusercontent.com/shimara-appuhami/utax/main/assets/demo.gif)  
 **Repo:** https://github.com/shimara-appuhami/utax
 
-### React Mobile App (Expo)
-![React Mobile App Demo](https://raw.githubusercontent.com/shimara-appuhami/react-mobile-app/main/assets/demo.gif)  
-**Repo:** https://github.com/shimara-appuhami/react-mobile-app  
-**Article:** https://medium.com/@shimaraappuhami
 
-### Angular Mobile App (Ionic)
-![Angular Mobile App Demo](https://raw.githubusercontent.com/shimara-appuhami/angular-demo/main/assets/demo.gif)  
-**Repo:** https://github.com/shimara-appuhami/angular-demo
+
+
 
 > **Tip:** keep GIFs ≤ 2MB and 720px wide for fast loading.
 
 ---
 
-## ⚡ Next-level visuals & animations
-
-### Pac-Man Animated Accent
-Add a small Pac-Man animation to the top or footer to add personality.  
-Put a `pacman.gif` in your repo at `assets/pacman.gif` and embed:
-
-```md
-<p align="center">
-  <!-- Add assets/pacman.gif to your repo -->
-  <img alt="Pacman" src="https://raw.githubusercontent.com/shimara-appuhami/shimara-appuhami/main/assets/pacman.gif" width="180" />
-</p>
+![snake gif](https://raw.githubusercontent.com/shimara-appuhami/shimara-appuhami/output/snake.svg)

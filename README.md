@@ -5,13 +5,35 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shimara-appuhami" alt="shimara-appuhami" /></a> </p>
 
-- 🌱 I’m currently learning **- **Hibernate NativeQuery** for advanced database operations - **React + React Native (Expo)** for cross-platform mobile apps - **Angular** for modern, scalable front-end development - **Clean UI/UX design principles** for better user experiences - **Data visualization & dashboards** to make insights interactive**
+- 🌱 I’m currently learning **-
+- - **React + React Native (Expo)** for cross-platform mobile apps
+- - **Hibernate NativeQuery** for advanced database operations
+- - **Angular** for modern, scalable front-end development
+- - **Clean UI/UX design principles** for better user experiences
+- - **Data visualization & dashboards** to make insights interactive**
 
-- 💬 Ask me about **- **Java, Hibernate, Spring & SQL** – backend development & database management - **React & Angular** – building modern front-end and mobile apps - **JavaFX** – designing interactive desktop applications - **GitHub & Git** – version control, workflows, and collaboration - **Project Development** – from idea → design → code → deploy - **Medium Articles** – sharing knowledge & tutorials**
+- 💬 Ask me about **-
+- **Java, Hibernate, Spring & SQL**
+- – backend development & database management -
+- **React & Angular** – building modern front-end and mobile apps -
+- **JavaFX** – designing interactive desktop applications -
+- **GitHub & Git** – version control, workflows, and collaboration -
+- **Project Development** – from idea → design → code → deploy -
+- **Medium Articles** – sharing knowledge & tutorials**
 
 - 📫 How to reach me **### 📫 How to reach me <p align="left"> <a href="mailto:shimaraappuhami@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/shimara-appuhami/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://medium.com/@shimaraappuhami"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://github.com/ShimaraAppuhami"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>**
 
-- 📄 Know about my experiences [- 🎓 **Software Engineering Student @ IJSE (Sri Lanka)** – Currently in 2nd semester - 💻 **Projects:** POS System, Library Management, To-Do List, Smart Parking (Java + Eureka), UTAX Tax Assistant, React Mobile App - 🏆 **Achievements:** HackerRank SQL & CSS Certificates, CMJD Certificate (2023), Inovesta 2023 participant - ✍ **Content Creator:** Writing technical articles on [Medium](https://medium.com/@shimaraappuhami) - 🤝 **Team Projects:** Experience collaborating with teams on innovative software solutions - 🚀 **Focus Areas:** Full-stack development, mobile apps, Hibernate, JavaFX, and modern UI/UX design](- 🎓 **Software Engineering Student @ IJSE (Sri Lanka)** – Currently in 2nd semester - 💻 **Projects:** POS System, Library Management, To-Do List, Smart Parking (Java + Eureka), UTAX Tax Assistant, React Mobile App - 🏆 **Achievements:** HackerRank SQL & CSS Certificates, CMJD Certificate (2023), Inovesta 2023 participant - ✍ **Content Creator:** Writing technical articles on [Medium](https://medium.com/@shimaraappuhami) - 🤝 **Team Projects:** Experience collaborating with teams on innovative software solutions - 🚀 **Focus Areas:** Full-stack development, mobile apps, Hibernate, JavaFX, and modern UI/UX design)
+- 📄 Know about my experiences
+- [- 🎓 **Software Engineering Student @ IJSE (Sri Lanka)** – Currently in 2nd semester -
+- 💻 **Projects:** POS System, Library Management, To-Do List, Smart Parking (Java + Eureka), UTAX Tax Assistant, React Mobile App -
+- 🏆 **Achievements:** HackerRank SQL & CSS Certificates, CMJD Certificate (2023), Inovesta 2023 participant -
+- ✍ **Content Creator:** Writing technical articles on [Medium](https://medium.com/@shimaraappuhami) -
+- 🤝 **Team Projects:** Experience collaborating with teams on innovative software solutions -
+- 🚀 **Focus Areas:** Full-stack development, mobile apps, Hibernate, JavaFX, and modern UI/UX design](- 🎓 **Software Engineering Student @ IJSE (Sri Lanka)** – Currently in 2nd semester -
+- 💻 **Projects:** POS System, Library Management, To-Do List, Smart Parking (Java + Eureka), UTAX Tax Assistant, React Mobile App -
+- 🏆 **Achievements:** HackerRank SQL & CSS Certificates, CMJD Certificate (2023), Inovesta 2023 participant -
+- ✍ **Content Creator:** Writing technical articles on [Medium](https://medium.com/@shimaraappuhami) -
+- 🤝 **Team Projects:** Experience collaborating with teams on innovative software solutions - 🚀 **Focus Areas:** Full-stack development, mobile apps, Hibernate, JavaFX, and modern UI/UX design)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +48,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shimara-appuhami&show_icons=true&locale=en" alt="shimara-appuhami" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shimara-appuhami&" alt="shimara-appuhami" /></p>
